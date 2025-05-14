@@ -129,7 +129,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LI-eL50rjVMXY8R-YE2r-3" value="&lt;b&gt;Uses&amp;nbsp;&lt;/b&gt;&lt;div&gt;[HTTPS, JSON]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="590" width="130" height="30" as="geometry" />
+          <mxGeometry x="820" y="600" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
